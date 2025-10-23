@@ -1,0 +1,206 @@
+{
+  "remboursement": {
+    "query_patterns": [
+      "remboursement",
+      "rembourser",
+      "refund",
+      "retour produit",
+      "produit défectueux",
+      "politique de remboursement"
+    ],
+    "response": "Les remboursements chez Mayday sont traités sous **30 jours** pour les produits défectueux [Source 1].\n\n**Procédure complète :**\n1. Vérifier l'éligibilité du client dans le système CRM\n2. Créer un ticket de type 'Refund' dans Zendesk\n3. Si le montant dépasse **500€**, validation manager requise [Source 2]\n4. Traiter le remboursement via le système de paiement\n5. Envoyer un email de confirmation au client\n\n**Important :** Les produits doivent être retournés dans leur emballage d'origine. Un diagnostic technique peut être requis pour les produits électroniques.\n\nPour les montants > 500€, la validation managériale se fait sous 48h ouvrées maximum.",
+    "sources": ["kb_001", "kb_002"],
+    "confidence": "high",
+    "required_teams": ["RH"]
+  },
+  "conge_parental": {
+    "query_patterns": [
+      "congé parental",
+      "maternité",
+      "paternité",
+      "naissance",
+      "adoption",
+      "congé famille"
+    ],
+    "response": "Le **congé parental** chez Mayday peut être demandé jusqu'à **3 ans** après la naissance ou l'adoption [Source 1].\n\n**Procédure à suivre :**\n1. Soumettre une demande écrite au moins **2 mois avant** la date souhaitée\n2. RH vérifie l'éligibilité (ancienneté minimum 1 an)\n3. Entretien avec le manager pour organiser la transition\n4. Signature du formulaire officiel\n5. Notification à la paie et mise à jour des systèmes\n\n**Bon à savoir :**\n- Le congé peut être pris à **temps plein ou partiel**\n- Vous conservez vos droits à l'ancienneté pendant le congé\n- Un accompagnement RH est disponible pour toute question",
+    "sources": ["kb_003"],
+    "confidence": "high",
+    "required_teams": ["RH"]
+  },
+  "onboarding": {
+    "query_patterns": [
+      "onboarding",
+      "intégration",
+      "nouveau salarié",
+      "nouvel employé",
+      "accueil",
+      "arrivée"
+    ],
+    "response": "L'**onboarding** chez Mayday se déroule sur **30 jours** avec un programme structuré [Source 1].\n\n**Programme détaillé :**\n\n**Jour 1 :**\n- Accueil RH et signature du contrat\n- Remise du matériel IT (laptop, badge, téléphone)\n\n**Semaine 1 :**\n- Formations obligatoires (sécurité, RGPD, outils internes)\n- Présentation à l'équipe\n- Installation du poste de travail\n\n**Semaines 2-3 :**\n- Formation métier avec le tuteur désigné\n- Premières missions encadrées\n\n**Jour 30 :**\n- Point RH de bilan\n- Feedback mutuel et validation de la période d'essai\n\nLe manager reçoit une checklist complète pour assurer un parcours réussi.",
+    "sources": ["kb_004"],
+    "confidence": "high",
+    "required_teams": ["RH"]
+  },
+  "teletravail": {
+    "query_patterns": [
+      "télétravail",
+      "remote",
+      "travail à distance",
+      "hybride",
+      "flexible",
+      "bureau"
+    ],
+    "response": "Mayday propose un **modèle hybride flexible** très apprécié par les équipes [Source 1].\n\n**Conditions :**\n- **2 jours minimum** en présentiel par semaine\n- **3 jours de télétravail** possibles\n- Accord du manager requis\n- Ancienneté minimum : 3 mois\n- Équipement IT adapté fourni par l'entreprise\n- Connexion internet stable (min 50 Mbps)\n\n**Organisation type :**\n- Jours en présentiel recommandés : **mardi et jeudi** (pour faciliter les réunions d'équipe)\n- Une charte du télétravail définit les horaires de disponibilité et les règles de communication\n\nCe modèle permet un excellent équilibre vie pro/perso tout en maintenant la cohésion d'équipe.",
+    "sources": ["kb_005"],
+    "confidence": "high",
+    "required_teams": ["RH"]
+  },
+  "budget_marketing": {
+    "query_patterns": [
+      "budget marketing",
+      "budget q1",
+      "marketing q1",
+      "dépense marketing",
+      "allocation budget"
+    ],
+    "response": "Le **budget marketing Q1 2025** s'élève à **450 000€** [Source 1].\n\n**Répartition détaillée :**\n- 💰 **Digital ads** (Google, Meta) : 180 000€ (40%)\n- 📝 **Content marketing et SEO** : 90 000€ (20%)\n- 🎯 **Events et sponsoring** : 112 500€ (25%)\n- 📰 **Relations presse** : 45 000€ (10%)\n- 🛠️ **Autres** (outils, freelances) : 22 500€ (5%)\n\n**Priorités Q1 :**\n- Acquisition clients B2B\n- Notoriété marque\n- Lancement produit Q2\n\n⚠️ **Important :** Toute dépense > 10k€ nécessite validation CFO [Source 2]. Reporting mensuel obligatoire avec ROI et KPIs.",
+    "sources": ["kb_009", "kb_010"],
+    "confidence": "high",
+    "required_teams": ["Finance"]
+  },
+  "depense_10k": {
+    "query_patterns": [
+      "dépense 10000",
+      "validation dépense",
+      "dépense importante",
+      "validation cfo",
+      "10k euros",
+      "approbation dépense"
+    ],
+    "response": "Toute dépense **supérieure à 10 000€** suit une procédure de validation stricte [Source 1].\n\n**Étapes de validation :**\n1. Le demandeur prépare un **dossier complet** :\n   - Devis détaillé\n   - Justification business\n   - ROI attendu\n2. Validation du manager de département\n3. Présentation au **comité finance** (hebdomadaire, le jeudi)\n4. **Validation CFO obligatoire**\n5. Émission du bon de commande par la comptabilité\n\n**Délais :**\n- Délai standard : **10-15 jours ouvrés**\n- Pour les urgences : validation express possible directement par le CFO\n\nCette procédure garantit une gestion rigoureuse des investissements importants.",
+    "sources": ["kb_010"],
+    "confidence": "high",
+    "required_teams": ["Finance"]
+  },
+  "note_frais": {
+    "query_patterns": [
+      "note de frais",
+      "remboursement frais",
+      "frais professionnels",
+      "expensify",
+      "frais de déplacement"
+    ],
+    "response": "Les **notes de frais** doivent être soumises dans les **30 jours** suivant la dépense [Source 1].\n\n**Procédure via Expensify :**\n1. Photographier le justificatif\n2. Catégoriser la dépense (repas, transport, hébergement)\n3. Ajouter une description et le contexte professionnel\n4. Soumettre pour validation\n\n**Délais de traitement :**\n- Validation manager : sous **5 jours ouvrés**\n- Remboursement : **15 jours** après validation\n\n**Plafonds applicables :**\n- 🍽️ Repas : **25€**\n- 🏨 Hébergement : **150€/nuit**\n- 🚗 Transport : selon barème kilométrique officiel\n\nAssurez-vous de conserver tous vos justificatifs originaux.",
+    "sources": ["kb_007"],
+    "confidence": "high",
+    "required_teams": ["RH", "Finance"]
+  },
+  "escalade_ticket": {
+    "query_patterns": [
+      "escalade ticket",
+      "ticket prioritaire",
+      "ticket urgent",
+      "escalade support",
+      "p1",
+      "p2"
+    ],
+    "response": "Les tickets **prioritaires (P1, P2)** suivent une procédure d'escalade stricte [Source 1].\n\n**P1 (Critique - service down) :**\n- ⚡ Escalade **immédiate** au L2\n- Notification manager + CTO\n- Résolution requise sous **2h**\n\n**P2 (Majeur - impact important) :**\n- Escalade L2 sous **30 min**\n- Résolution sous **8h**\n\n**Procédure d'escalade :**\n1. Le conseiller L1 identifie la priorité\n2. Tag 'Escalation' + notification Slack canal **#support-urgent**\n3. Transfert au L2 avec **contexte complet**\n4. Suivi toutes les heures jusqu'à résolution\n\n⚠️ En cas de non-résolution dans les délais, escalade automatique au responsable support.",
+    "sources": ["kb_014"],
+    "confidence": "high",
+    "required_teams": ["Support"]
+  },
+  "sla": {
+    "query_patterns": [
+      "sla",
+      "délai réponse",
+      "temps de réponse",
+      "délai ticket",
+      "temps résolution"
+    ],
+    "response": "Les **SLA Mayday** sont définis par priorité pour garantir un service optimal [Source 1].\n\n**P1 (Critique) :**\n- 🕐 Première réponse : **15 min**\n- ✅ Résolution : **2h**\n- 🌐 Disponibilité : **24/7**\n\n**P2 (Majeur) :**\n- 🕐 Première réponse : **1h**\n- ✅ Résolution : **8h**\n- 🌐 Horaires ouvrés étendus\n\n**P3 (Normal) :**\n- 🕐 Première réponse : **4h**\n- ✅ Résolution : **48h**\n- 🌐 Horaires ouvrés\n\n**P4 (Mineur) :**\n- 🕐 Première réponse : **24h**\n- ✅ Résolution : **5 jours**\n\n**Objectifs de performance :**\n- P1/P2 : > **95%** de respect des SLA\n- P3/P4 : > **90%** de respect des SLA",
+    "sources": ["kb_015"],
+    "confidence": "high",
+    "required_teams": ["Support"]
+  },
+  "creer_ticket": {
+    "query_patterns": [
+      "créer ticket",
+      "création ticket",
+      "nouveau ticket",
+      "ouvrir ticket",
+      "ticket support"
+    ],
+    "response": "Voici la procédure pour **créer un ticket support** dans Zendesk [Source 1].\n\n**Étapes :**\n1. Se connecter à **Zendesk**\n2. Cliquer sur **'Nouveau ticket'**\n3. Renseigner les **informations obligatoires** :\n   - Client (email ou ID)\n   - Sujet clair et descriptif\n   - Description détaillée du problème\n   - Priorité (P1, P2, P3, P4)\n   - Catégorie (technique/facturation/compte)\n4. Joindre captures d'écran ou logs si pertinent\n5. Assigner à la bonne équipe (L1, L2, Billing)\n6. Envoyer\n\n**Après création :**\n- Le ticket est automatiquement numéroté\n- Le client reçoit un email de confirmation avec le numéro de suivi\n- ⚠️ Toujours commenter dans le ticket pour la traçabilité",
+    "sources": ["kb_016"],
+    "confidence": "high",
+    "required_teams": ["Support"]
+  },
+  "produit_allume_pas": {
+    "query_patterns": [
+      "produit ne s'allume pas",
+      "ne s'allume pas",
+      "ne fonctionne pas",
+      "ne démarre pas",
+      "problème allumage",
+      "produit défectueux"
+    ],
+    "response": "Si votre produit Mayday **ne s'allume pas**, suivez ces étapes de dépannage [Source 1] :\n\n**Solutions à tester :**\n\n1. 🔋 **Vérifiez la charge**\n   - Branchez le produit pendant au moins **30 minutes**\n   - Vérifiez que le voyant LED verte s'allume\n\n2. 🔌 **Testez un autre câble**\n   - Utilisez un autre câble et adaptateur\n\n3. 🔄 **Reset forcé**\n   - Appuyez longuement sur le bouton power (**10 secondes**)\n\n4. 🛠️ **Mode recovery**\n   - Power + Volume bas pendant **15 secondes**\n\n**Si le problème persiste :**\nContactez le support pour un diagnostic approfondi ou un remplacement sous garantie.\n\nVous pouvez également consulter notre procédure de remboursement si le produit est défectueux.",
+    "sources": ["kb_018"],
+    "confidence": "high",
+    "required_teams": ["Self-Care", "Support"]
+  },
+  "mot_de_passe": {
+    "query_patterns": [
+      "mot de passe",
+      "password",
+      "réinitialiser",
+      "oublié",
+      "reset password",
+      "connexion"
+    ],
+    "response": "Pour **réinitialiser votre mot de passe** Mayday [Source 1] :\n\n**Procédure simple :**\n\n1. 🌐 Allez sur **app.mayday.com/login**\n2. 🔑 Cliquez sur **'Mot de passe oublié ?'**\n3. 📧 Entrez votre **email professionnel**\n4. ⏱️ Vous recevrez un lien valide **15 minutes**\n5. ✏️ Définissez votre nouveau mot de passe\n\n**Exigences mot de passe :**\n- Minimum **8 caractères**\n- 1 majuscule\n- 1 chiffre\n- 1 caractère spécial\n\n**Problème ?**\nSi vous ne recevez pas l'email :\n- Vérifiez vos **spams**\n- Contactez le support IT : **it-support@mayday.com**",
+    "sources": ["kb_019"],
+    "confidence": "high",
+    "required_teams": ["Self-Care"]
+  },
+  "formation_crm": {
+    "query_patterns": [
+      "formation crm",
+      "module crm",
+      "academy crm",
+      "certification crm",
+      "cours crm",
+      "accès formation"
+    ],
+    "response": "Pour accéder au **module de formation CRM** de Mayday Academy [Source 1] :\n\n**Étapes d'accès :**\n1. 🌐 Connectez-vous à **academy.mayday.com** avec vos identifiants SSO\n2. 📚 Naviguez vers **'Parcours > CRM Fundamentals'**\n3. 📺 Le module contient **8 chapitres** (durée totale : **4h**)\n\n**Certification :**\n- Suivez les vidéos et complétez les quiz\n- Score minimum : **80%** par chapitre\n- Examen final : **50 questions** (**90% requis**)\n- Certificat émis automatiquement\n\n**Prérequis :**\n- ⚠️ Avoir suivi le module **'Onboarding Mayday'**\n\n**Validité :**\n- Certificat valable **2 ans**\n\nCette formation est essentielle pour maîtriser notre CRM et optimiser la gestion client.",
+    "sources": ["kb_020"],
+    "confidence": "high",
+    "required_teams": ["Academy"]
+  },
+  "evaluation_annuelle": {
+    "query_patterns": [
+      "évaluation annuelle",
+      "entretien annuel",
+      "entretien de performance",
+      "objectifs annuels",
+      "évaluation performance"
+    ],
+    "response": "Les **évaluations annuelles** chez Mayday se déroulent en **janvier-février** [Source 1].\n\n**Processus complet :**\n\n1. 📝 **Auto-évaluation**\n   - L'employé complète son bilan (objectifs N-1, réalisations, développement)\n\n2. 👨‍💼 **Évaluation manager**\n   - Le manager prépare son évaluation\n\n3. 💬 **Entretien individuel**\n   - Durée : **60-90 minutes**\n   - Discussion approfondie sur la performance\n\n4. 🎯 **Objectifs année N**\n   - Définition des objectifs pour l'année à venir\n\n5. 📈 **Évolution de carrière**\n   - Discussion formation et plan de développement\n\n**Impact :**\n- Les résultats impactent les **augmentations et bonus**\n- Un **Plan de Développement Individuel (PDI)** est établi pour chaque collaborateur",
+    "sources": ["kb_006"],
+    "confidence": "high",
+    "required_teams": ["RH"]
+  },
+  "formation_continue": {
+    "query_patterns": [
+      "formation continue",
+      "formation professionnelle",
+      "cpf",
+      "budget formation",
+      "développement compétences"
+    ],
+    "response": "Mayday investit dans le **développement de ses collaborateurs** [Source 1].\n\n**Budget disponible :**\n- 💰 **1500€** par an et par salarié\n- ➕ Votre budget **CPF** personnel\n\n**Procédure de demande :**\n1. 🔍 Identifier la formation souhaitée (catalogue interne ou externe)\n2. 💬 Discuter avec votre manager de la pertinence\n3. 📋 Soumettre la demande via le **portail RH**\n4. ✅ Validation RH + manager sous **2 semaines**\n5. 📚 Inscription et planification\n\n**Priorités :**\n- Formations **certifiantes** prioritaires\n- Formations **IA, data et cybersécurité** encouragées\n- Point formation lors de l'entretien annuel\n\nInvestissez dans votre carrière avec le soutien de Mayday !",
+    "sources": ["kb_008"],
+    "confidence": "high",
+    "required_teams": ["RH"]
+  }
+}

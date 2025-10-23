@@ -1,0 +1,202 @@
+[
+  {
+    "id": "kb_001",
+    "title": "Politique de remboursement produits défectueux",
+    "content": "Les clients peuvent demander un remboursement sous 30 jours si le produit est défectueux. Procédure : 1) Vérifier l'éligibilité du client dans le système CRM 2) Créer un ticket de type 'Refund' dans Zendesk 3) Valider avec le manager si le montant dépasse 500€ 4) Traiter le remboursement via le système de paiement 5) Envoyer un email de confirmation au client. Les produits doivent être retournés dans leur emballage d'origine. Un diagnostic technique peut être requis pour les produits électroniques.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "Procédures",
+    "last_updated": "2025-01-15",
+    "keywords": ["remboursement", "refund", "produit", "défectueux", "retour", "client", "politique"]
+  },
+  {
+    "id": "kb_002",
+    "title": "Validation des remboursements supérieurs à 500€",
+    "content": "Tous les remboursements dépassant 500€ nécessitent une validation managériale. Le conseiller doit : 1) Documenter le cas dans le ticket 2) Joindre les justificatifs (photos, factures) 3) Notifier le manager via Slack avec le lien du ticket 4) Attendre l'approbation avant de procéder. Délai de validation : 48h ouvrées maximum. En cas d'urgence, contacter directement le responsable d'équipe.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "Procédures",
+    "last_updated": "2025-01-10",
+    "keywords": ["remboursement", "validation", "manager", "approbation", "500", "euros"]
+  },
+  {
+    "id": "kb_003",
+    "title": "Gestion des demandes de congé parental",
+    "content": "Le congé parental peut être demandé jusqu'à 3 ans après la naissance ou l'adoption. Procédure : 1) L'employé soumet une demande écrite au moins 2 mois avant la date souhaitée 2) RH vérifie l'éligibilité (ancienneté minimum 1 an) 3) Entretien avec le manager pour organiser la transition 4) Signature du formulaire officiel 5) Notification à la paie et mise à jour des systèmes. Le congé peut être pris à temps plein ou partiel. Pendant le congé, l'employé conserve ses droits à l'ancienneté.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "RH",
+    "last_updated": "2024-12-20",
+    "keywords": ["congé", "parental", "maternité", "paternité", "famille", "naissance", "adoption"]
+  },
+  {
+    "id": "kb_004",
+    "title": "Procédure d'onboarding nouveau salarié",
+    "content": "L'onboarding d'un nouveau salarié se déroule sur 30 jours. Jour 1 : Accueil RH, signature contrat, remise du matériel IT (laptop, badge, téléphone). Semaine 1 : Formations obligatoires (sécurité, RGPD, outils internes), présentation à l'équipe, installation du poste de travail. Semaine 2-3 : Formation métier avec le tuteur désigné, premières missions encadrées. Jour 30 : Point RH de bilan, feedback mutuel, validation de la période d'essai. Le manager reçoit une checklist complète à suivre.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "RH",
+    "last_updated": "2025-01-05",
+    "keywords": ["onboarding", "intégration", "nouveau", "salarié", "recrutement", "accueil"]
+  },
+  {
+    "id": "kb_005",
+    "title": "Politique de télétravail et travail hybride",
+    "content": "Mayday propose un modèle hybride flexible : 2 jours minimum en présentiel par semaine, 3 jours de télétravail possibles. Conditions : 1) Accord du manager 2) Ancienneté minimum 3 mois 3) Équipement IT adapté fourni par l'entreprise 4) Connexion internet stable (min 50 Mbps). Les jours en présentiel sont généralement mardi et jeudi pour faciliter les réunions d'équipe. Une charte du télétravail définit les horaires de disponibilité et les règles de communication.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "RH",
+    "last_updated": "2025-01-12",
+    "keywords": ["télétravail", "remote", "hybride", "flexible", "travail", "distance"]
+  },
+  {
+    "id": "kb_006",
+    "title": "Évaluation annuelle et entretiens de performance",
+    "content": "Les évaluations annuelles se déroulent en janvier-février. Processus : 1) L'employé complète son auto-évaluation (objectifs N-1, réalisations, développement) 2) Le manager prépare son évaluation 3) Entretien individuel de 60-90 minutes 4) Définition des objectifs année N 5) Discussion sur l'évolution de carrière et formation. Les résultats impactent les augmentations et bonus. Un plan de développement individuel (PDI) est établi pour chaque collaborateur.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "RH",
+    "last_updated": "2024-12-15",
+    "keywords": ["évaluation", "performance", "entretien", "annuel", "objectifs", "carrière"]
+  },
+  {
+    "id": "kb_007",
+    "title": "Gestion des notes de frais et remboursements",
+    "content": "Les notes de frais doivent être soumises dans les 30 jours suivant la dépense. Utiliser l'application Expensify : 1) Photographier le justificatif 2) Catégoriser la dépense (repas, transport, hébergement) 3) Ajouter une description et le contexte professionnel 4) Soumettre pour validation. Le manager valide sous 5 jours ouvrés. Remboursement : 15 jours après validation. Plafonds : repas 25€, hébergement 150€/nuit, transport selon barème kilométrique officiel.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "Finance",
+    "last_updated": "2025-01-08",
+    "keywords": ["frais", "remboursement", "note", "dépense", "expensify", "justificatif"]
+  },
+  {
+    "id": "kb_008",
+    "title": "Politique de formation continue et budget CPF",
+    "content": "Chaque salarié dispose d'un budget formation annuel de 1500€ et de son CPF. Démarche : 1) Identifier la formation souhaitée (catalogue interne ou externe) 2) Discuter avec le manager de la pertinence 3) Soumettre la demande via le portail RH 4) Validation RH et manager sous 2 semaines 5) Inscription et planification. Les formations certifiantes sont prioritaires. Un point formation est fait lors de l'entretien annuel. Les formations techniques en IA, data et cybersécurité sont encouragées.",
+    "product": "Knowledge",
+    "team": "RH",
+    "category": "Formation",
+    "last_updated": "2024-12-28",
+    "keywords": ["formation", "cpf", "développement", "compétences", "apprentissage", "certification"]
+  },
+  {
+    "id": "kb_009",
+    "title": "Budget marketing Q1 2025 et allocations",
+    "content": "Le budget marketing Q1 2025 s'élève à 450 000€, réparti comme suit : Digital ads (Google, Meta) : 180 000€ (40%), Content marketing et SEO : 90 000€ (20%), Events et sponsoring : 112 500€ (25%), Relations presse : 45 000€ (10%), Autres (outils, freelances) : 22 500€ (5%). Priorités : acquisition clients B2B, notoriété marque, lancement produit Q2. Toute dépense > 10k€ nécessite validation CFO. Reporting mensuel obligatoire avec ROI et KPIs.",
+    "product": "Knowledge",
+    "team": "Finance",
+    "category": "Budget",
+    "last_updated": "2025-01-20",
+    "keywords": ["budget", "marketing", "q1", "dépense", "allocation", "finance"]
+  },
+  {
+    "id": "kb_010",
+    "title": "Validation des dépenses supérieures à 10 000€",
+    "content": "Toute dépense supérieure à 10 000€ suit une procédure de validation stricte : 1) Le demandeur prépare un dossier complet (devis, justification business, ROI attendu) 2) Validation du manager de département 3) Présentation au comité finance (hebdomadaire, le jeudi) 4) Validation CFO obligatoire 5) Émission du bon de commande par la comptabilité. Délai total : 10-15 jours ouvrés. Pour les urgences, possibilité de validation express par le CFO directement.",
+    "product": "Knowledge",
+    "team": "Finance",
+    "category": "Procédures",
+    "last_updated": "2025-01-18",
+    "keywords": ["dépense", "validation", "cfo", "10000", "euros", "approbation", "budget"]
+  },
+  {
+    "id": "kb_011",
+    "title": "Procédure de clôture comptable mensuelle",
+    "content": "La clôture comptable se fait le 5 de chaque mois pour le mois N-1. Étapes : 1) Collecte de toutes les factures et justificatifs (deadline J-2) 2) Rapprochement bancaire et vérification des paiements 3) Comptabilisation des écritures de régularisation 4) Révision par le responsable comptable 5) Validation finale et export vers l'ERP 6) Envoi du reporting financier à la direction. Les retards de soumission de factures entraînent un report au mois suivant.",
+    "product": "Knowledge",
+    "team": "Finance",
+    "category": "Comptabilité",
+    "last_updated": "2025-01-03",
+    "keywords": ["clôture", "comptable", "mensuelle", "facture", "comptabilité", "reporting"]
+  },
+  {
+    "id": "kb_012",
+    "title": "Gestion de la trésorerie et prévisions de cash-flow",
+    "content": "La trésorerie est suivie hebdomadairement. Processus : 1) Mise à jour du tableau de bord trésorerie tous les lundis 2) Analyse des encaissements et décaissements de la semaine 3) Prévisions sur 13 semaines glissantes 4) Identification des besoins de financement 5) Reporting au CFO et CEO. Seuil d'alerte : trésorerie < 2 mois de charges. En cas de tension, activation de la ligne de crédit ou report de paiements non-urgents.",
+    "product": "Knowledge",
+    "team": "Finance",
+    "category": "Trésorerie",
+    "last_updated": "2025-01-22",
+    "keywords": ["trésorerie", "cash", "flow", "financement", "liquidité", "finance"]
+  },
+  {
+    "id": "kb_013",
+    "title": "Facturation clients et délais de paiement",
+    "content": "Les factures clients sont émises automatiquement : Abonnements : facturation le 1er du mois pour le mois en cours. One-shot : facturation à la livraison ou selon jalons contractuels. Délais de paiement : 30 jours nets pour les PME, 45 jours pour les grands comptes. Relances automatiques : J+35 (email amical), J+45 (relance ferme), J+60 (mise en demeure). Pour tout impayé > 60 jours, escalade au service juridique. Un escompte de 2% est proposé pour paiement sous 10 jours.",
+    "product": "Knowledge",
+    "team": "Finance",
+    "category": "Facturation",
+    "last_updated": "2025-01-11",
+    "keywords": ["facturation", "client", "paiement", "délai", "relance", "impayé"]
+  },
+  {
+    "id": "kb_014",
+    "title": "Escalade des tickets prioritaires et urgents",
+    "content": "Les tickets prioritaires (P1, P2) suivent une procédure d'escalade stricte. P1 (Critique - service down) : Escalade immédiate au L2, notification manager + CTO, résolution sous 2h. P2 (Majeur - impact important) : Escalade L2 sous 30 min, résolution sous 8h. Procédure : 1) Le conseiller L1 identifie la priorité 2) Tag 'Escalation' + notification Slack canal #support-urgent 3) Transfert au L2 avec contexte complet 4) Suivi toutes les heures jusqu'à résolution. En cas de non-résolution dans les délais, escalade au responsable support.",
+    "product": "Support",
+    "team": "Support",
+    "category": "Procédures",
+    "last_updated": "2025-01-19",
+    "keywords": ["escalade", "ticket", "prioritaire", "urgent", "p1", "p2", "support"]
+  },
+  {
+    "id": "kb_015",
+    "title": "SLA et temps de réponse par type de ticket",
+    "content": "Les SLA Mayday sont définis par priorité : P1 (Critique) : Première réponse sous 15 min, résolution sous 2h, disponibilité 24/7. P2 (Majeur) : Première réponse sous 1h, résolution sous 8h, horaires ouvrés étendus. P3 (Normal) : Première réponse sous 4h, résolution sous 48h, horaires ouvrés. P4 (Mineur) : Première réponse sous 24h, résolution sous 5 jours. Le respect des SLA est mesuré mensuellement. Objectif : > 95% de respect pour P1/P2, > 90% pour P3/P4.",
+    "product": "Support",
+    "team": "Support",
+    "category": "SLA",
+    "last_updated": "2025-01-17",
+    "keywords": ["sla", "délai", "réponse", "ticket", "temps", "priorité"]
+  },
+  {
+    "id": "kb_016",
+    "title": "Création et gestion des tickets support",
+    "content": "Pour créer un ticket support : 1) Se connecter à Zendesk 2) Cliquer sur 'Nouveau ticket' 3) Renseigner les informations obligatoires : client (email ou ID), sujet, description détaillée, priorité, catégorie (technique/facturation/compte) 4) Joindre captures d'écran ou logs si pertinent 5) Assigner à la bonne équipe (L1, L2, Billing) 6) Envoyer. Le ticket est automatiquement numéroté. Le client reçoit un email de confirmation avec le numéro de suivi. Mises à jour : toujours commenter dans le ticket pour traçabilité.",
+    "product": "Support",
+    "team": "Support",
+    "category": "Procédures",
+    "last_updated": "2025-01-14",
+    "keywords": ["ticket", "création", "support", "zendesk", "procédure", "client"]
+  },
+  {
+    "id": "kb_017",
+    "title": "Gestion des réclamations clients et satisfaction",
+    "content": "Toute réclamation client est traitée avec priorité. Processus : 1) Écoute active et empathie 2) Identification du problème root cause 3) Proposition de solution immédiate ou sous 24h 4) Compensation si pertinent (crédit, geste commercial) 5) Suivi post-résolution sous 72h 6) Enquête de satisfaction CSAT envoyée automatiquement. Les réclamations sont analysées en réunion hebdomadaire pour identifier les axes d'amélioration. Objectif CSAT : > 4.5/5.",
+    "product": "Support",
+    "team": "Support",
+    "category": "Satisfaction",
+    "last_updated": "2025-01-21",
+    "keywords": ["réclamation", "client", "satisfaction", "csat", "problème", "compensation"]
+  },
+  {
+    "id": "kb_018",
+    "title": "Dépannage : Produit ne s'allume pas",
+    "content": "Si votre produit Mayday ne s'allume pas, suivez ces étapes : 1) Vérifiez que le produit est bien chargé (branchez-le 30 min minimum) 2) Testez avec un autre câble et adaptateur 3) Appuyez longuement sur le bouton power (10 secondes) pour un reset forcé 4) Vérifiez que le voyant de charge s'allume (LED verte) 5) Si le problème persiste, tentez un démarrage en mode recovery (Power + Volume bas pendant 15 sec). Si aucune solution ne fonctionne, contactez le support pour un diagnostic approfondi ou un remplacement.",
+    "product": "Self-Care",
+    "team": "Self-Care",
+    "category": "Technique",
+    "last_updated": "2025-01-16",
+    "keywords": ["produit", "allume", "pas", "ne", "fonctionne", "charge", "power", "dépannage"]
+  },
+  {
+    "id": "kb_019",
+    "title": "Réinitialisation du mot de passe compte Mayday",
+    "content": "Pour réinitialiser votre mot de passe : 1) Allez sur app.mayday.com/login 2) Cliquez sur 'Mot de passe oublié ?' 3) Entrez votre email professionnel 4) Vous recevrez un lien de réinitialisation valide 15 minutes 5) Cliquez sur le lien et définissez votre nouveau mot de passe (min 8 caractères, 1 majuscule, 1 chiffre, 1 caractère spécial) 6) Connectez-vous avec vos nouveaux identifiants. Si vous ne recevez pas l'email, vérifiez vos spams ou contactez le support IT à it-support@mayday.com.",
+    "product": "Self-Care",
+    "team": "Self-Care",
+    "category": "Compte",
+    "last_updated": "2025-01-13",
+    "keywords": ["mot", "de", "passe", "password", "réinitialisation", "oublié", "reset", "compte"]
+  },
+  {
+    "id": "kb_020",
+    "title": "Accès et certification module formation CRM",
+    "content": "Pour accéder au module de formation CRM de Mayday Academy : 1) Connectez-vous à academy.mayday.com avec vos identifiants SSO 2) Naviguez vers 'Parcours > CRM Fundamentals' 3) Le module contient 8 chapitres (durée totale : 4h) 4) Suivez les vidéos et complétez les quiz de validation 5) Obtenez 80% minimum aux quiz pour débloquer le chapitre suivant 6) Examen final de certification (50 questions, 90% requis) 7) Certificat émis automatiquement et ajouté à votre profil. Prérequis : avoir suivi le module 'Onboarding Mayday'. Validité certificat : 2 ans.",
+    "product": "Academy",
+    "team": "Academy",
+    "category": "Formation",
+    "last_updated": "2025-01-09",
+    "keywords": ["formation", "crm", "academy", "certification", "module", "apprentissage", "cours"]
+  }
+]
